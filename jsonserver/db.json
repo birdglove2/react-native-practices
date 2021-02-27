@@ -1,0 +1,22 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API_TEST",
+      "content": "CONTENT FOR API_TEST"
+    },
+    {
+      "title": "Dasda",
+      "content": "Sdadsad",
+      "id": 10
+    },
+    {
+      "id": 15
+    },
+    {
+      "title": "",
+      "content": "",
+      "id": 16
+    }
+  ]
+}
